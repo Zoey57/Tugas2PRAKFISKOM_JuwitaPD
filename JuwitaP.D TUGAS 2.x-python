@@ -1,0 +1,8 @@
+v0 = 2 #m/s
+vt = 4 #m/s
+t0 = 0 #s
+tt = 10 #s
+
+#percepatan
+a = (vt - v0) / (tt - t0)
+print (a, "m/s^2")
